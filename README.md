@@ -1,10 +1,11 @@
 # <p align="center">👋 Olá, eu sou Wilkenio</p>
 ## <p align="center"> Desenvolvedor fullstack</p>
-### <p align="center"> Sou um entusiasta pelo universo da tecnologia e suas vertentes. Estou sempre em busca de novos desafios nesse âmbito que eu tanto amo.💻</p>
+### <p > Sou um entusiasta pelo universo da tecnologia e suas vertentes. Estou sempre em busca de novos desafios nesse âmbito que eu tanto amo.💻</p>
 
+<div align="center">
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkenio&show_icons=true&theme=dracula&count_private=true)
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkenio&layout=compact&langs_count=7&theme=dracula"/>
- 
+ </div>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
