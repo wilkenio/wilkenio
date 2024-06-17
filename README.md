@@ -13,8 +13,8 @@ Sou um desenvolvedor FullStack apaixonado por criar soluções inovadoras. Aqui 
 
 ## 📈 Estatísticas do GitHub
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilkenio&show_icons=true&theme=dark" alt="Your GitHub Stats" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkenio&layout=compact&theme=dark" alt="Top Langs" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wilkenio&show_icons=true&theme=dark" alt="Your GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkenio&layout=compact&theme=dark" alt="Top Langs" height="150px"/>
 </div>
 
 <!--## 🌟 Projetos em Destaque
