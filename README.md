@@ -1,7 +1,7 @@
 # Olá, sou Wilkenio 👋
+💻 Sou um desenvolvedor FullStack apaixonado por criar soluções inovadoras. Aqui você encontrará alguns dos meus projetos e contribuições.
 
-Sou um desenvolvedor FullStack apaixonado por criar soluções inovadoras. Aqui você encontrará alguns dos meus projetos e contribuições.
-<br><br> 📚 Estudante de ADS <br>
+📚 Estudante de ADS <br>
 🎸 Apaixonado por música
 ## 🚀 Minhas Habilidades
 <div style="display: inline_block">
